@@ -1,0 +1,25 @@
+segment_sources:
+  PBF1BADD1:
+    type: origin_type
+    relation: translation
+    language: en
+  P95488BBE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8af2cfe99bf440c0a5f4dcfb937e1a24:
+    PBF1BADD1: ee958ae902c04da1bf0dc8a9a73beb06
+    P95488BBE: 0685109c966f43369950d32eb590fdac
+  dada1161ed894aae92316d13d89d6417:
+    PBF1BADD1: 3e122a77c4dd43a58e4763a02173d6d5
+    P95488BBE: 8a253ec51f5349818747b569ca94ae79
+  7de4b24e895f400d8ecdb221f607193e:
+    PBF1BADD1: 354312e78b964a9e823867078e7356ab
+    P95488BBE: f81ad91821aa46cb990aceafa2bfaad2
+  f86637ff625444a6be5ee4e8973d5e18:
+    PBF1BADD1: f2ed746eb46e4e8292cfc50dc80b16ec
+    P95488BBE: 46ae4c8bc12248c0868f398e342352f6
+  35b69cbea429496fb7b1d012e6bb1d98:
+    PBF1BADD1: 9c681a47247f42959255b1f78f451d95
+    P95488BBE: 95d2068f44e540bab84ccde946adfd54
